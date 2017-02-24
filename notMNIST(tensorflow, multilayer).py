@@ -28,7 +28,7 @@ with open('notMNIST.pickle', 'rb') as file:
 
 
 
-#-----------1 Hidden layer---------
+#-----------3 Hidden layers---------
 # using relu for activation
 # sgd implementation for fast result
 input_layer_size = image_size * image_size
